@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Albertph7
 - 👀 I’m interested in GIS Hydraulic and Civil Engineering
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Epanet
+- 💞️ I’m looking to collaborate on Civil 3D, QGIS and Epanet
 - 📫 How to reach me ezekias92@gmail.com
 
 <!---
